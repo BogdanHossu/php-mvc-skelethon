@@ -1,0 +1,17 @@
+body {
+	background-color: #eee;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+
+}
+
+p, .jumbotron {
+	text-align: center;
+}
+
+a {
+	padding: 20px;
+}
